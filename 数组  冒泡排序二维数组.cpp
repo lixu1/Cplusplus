@@ -1,0 +1,12 @@
+for(pass=1;pass<m*n;pass++)
+{
+    for(i=0;i<m*n-1;i++)
+    {
+        if(a[i/n][i%n]>a[(i+1)/n][(i+1)%n])
+        {
+            hold=a[i/n][i%n];
+            a[i/n][i%n]=a[(i+1)/n][(i+1)%n];
+            a[(i+1)/n][(i+1)%n]=hold;
+        }
+    }
+}

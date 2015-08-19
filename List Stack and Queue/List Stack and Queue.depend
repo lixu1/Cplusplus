@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1340934579 source:c:\users\lixu\desktop\临时数据\list stack and queue\listnode.cpp
+	"ListNode.h"
+
+1340934579 c:\users\lixu\desktop\临时数据\list stack and queue\listnode.h
+	<iostream>
+
+1340938945 source:c:\users\lixu\desktop\临时数据\list stack and queue\main.cpp
+	<iostream>
+	<string>
+	"List.h"
+	"Stack1.h"
+	"Queue.h"
+
+1340934913 c:\users\lixu\desktop\临时数据\list stack and queue\list.h
+	<iostream>
+	"ListNode.h"
+
+1340934499 source:c:\users\lixu\desktop\临时数据\list stack and queue\list.cpp
+	"List.h"
+
+1340936612 source:c:\users\lixu\desktop\临时数据\list stack and queue\stack1.cpp
+	"Stack1.h"
+
+1340936612 c:\users\lixu\desktop\临时数据\list stack and queue\stack1.h
+	"List.h"
+
+1340937811 source:c:\users\lixu\desktop\临时数据\list stack and queue\stack2.cpp
+	"Stack2.h"
+
+1340937834 c:\users\lixu\desktop\临时数据\list stack and queue\stack2.h
+	"List.h"
+
+1340938361 source:c:\users\lixu\desktop\临时数据\list stack and queue\queue.cpp
+	"Queue.h"
+
+1340938981 c:\users\lixu\desktop\临时数据\list stack and queue\queue.h
+	"List.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1340940545 source:c:\users\lixu\desktop\临时数据\tree\treenode.cpp
+	"TreeNode.h"
+
+1340960739 c:\users\lixu\desktop\临时数据\tree\treenode.h
+
+1340960239 source:c:\users\lixu\desktop\临时数据\tree\main.cpp
+	<iostream>
+	<iomanip>
+	"Tree.h"
+
+1340960246 c:\users\lixu\desktop\临时数据\tree\tree.h
+	<iostream>
+	"TreeNode.h"
+
+1340942381 source:c:\users\lixu\desktop\临时数据\tree\tree.cpp
+	"Tree.h"
+
